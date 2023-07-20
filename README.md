@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bguerbas&label=Profile%20views&color=0e75b6&style=flat" alt="bguerbas" /> </p>
 
 <div id="header" align="center">
-    <img src="./images/working-chart.gif" width="300" >
+    <img src="./images/working-chart.gif" width="200" >
 </div>
 
 <h3 align="center">
