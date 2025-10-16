@@ -67,7 +67,7 @@
 <h1></h1>
 <h3>🔥 My Status:</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bguerbas&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bguerbas&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bguerbas&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
